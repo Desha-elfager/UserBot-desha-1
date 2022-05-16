@@ -6,9 +6,9 @@
 
 # WAIT FOR LATEST UPDATES
 
-## JOIN [@𝐒𝐔𝐏𝐏𝐎𝐑𝐓](HTTPS://T.ME/OctaveSupport) 
+## JOIN [@𝐒𝐔𝐏𝐏𝐎𝐑𝐓](HTTPS://T.ME/Music_Desha) 
 
-## JOIN [@𝐂𝐇𝐀𝐍𝐍𝐄𝐋](HTTPS://T.ME/OctaveUpdates) 
+## JOIN [@𝐂𝐇𝐀𝐍𝐍𝐄𝐋](HTTPS://T.ME/TS_DE3) 
 
 # DEPLOY TO HEROKU 
 
