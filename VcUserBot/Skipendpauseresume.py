@@ -7,7 +7,7 @@ from VcUserBot.helpers.handlers import skip_current_song, skip_item
 from VcUserBot.helpers.queues import QUEUE, clear_queue
 
 
-@Client.on_message(filters.command(["skip", "هات اللي بعدو"], prefixes=f"{HNDLR}"))
+@Client.on_message(filters.command(["skip", "هات اللي بعدو", "غير"], prefixes=f"{HNDLR}"))
 async def skip(client, m: Message):
     await m.delete()
     chat_id = m.chat.id
